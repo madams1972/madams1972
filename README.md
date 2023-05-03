@@ -4,7 +4,7 @@ Friday Knight 13 is a highly experienced and dedicated web 3 instructor, with a 
 
 Friday Knight13 is a highly skilled web developer, with expertise in HTML, CSS, and JavaScript, and has received certification in these technologies. She is dedicated to helping others develop the digital skills they need to succeed in the digital economy, and is committed to promoting equity and inclusion in all aspects of the tech industry.
 I’m interested in All things Code, HTML, CSS, Javascript, Python You Name it.
-- 🌱 I’m currently in a 6 month Fullstack coding bootcamp and the University of Minnesota
+- 🌱 I recently graduated from a 6 month Fullstack coding bootcamp at the University of Minnesota
 - 💞️ I’m looking to collaborate on NFT and Metaverse projects
 - 📫 How to reach me madams@stantonadams.com
 <!---
